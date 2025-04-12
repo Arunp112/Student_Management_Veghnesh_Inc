@@ -23,7 +23,8 @@ const Dashboard = () => {
     <div className="flex h-screen bg-gray-100">
       {/* Sidebar */}
       <aside className="w-64 bg-white shadow-md p-6 hidden sm:block">
-        <span><img src="../assets/logo.png" alt="" /></span>
+        <span><img src="https://media.designrush.com/agencies/327544/conversions/Vighnesh-logo-profile.jpg" alt="" /></span>
+        <h1></h1>
         <h2 className="text-xl font-bold mb-6">Student Manager</h2>
         <ul className="space-y-2">
           <li className="font-medium text-blue-600">Dashboard</li>
